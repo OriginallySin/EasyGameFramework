@@ -1,4 +1,4 @@
-#include "GameFlow.h"
+#include "../include/GameFlow.h"
 
 int main(int agrc,char* argv[])
 {

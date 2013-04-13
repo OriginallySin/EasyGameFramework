@@ -14,6 +14,7 @@ class GameFlow
         char GameInput();
     protected:
     private:
+        //地图成员变量
 };
 
 #endif // GAMEFLOW_H
